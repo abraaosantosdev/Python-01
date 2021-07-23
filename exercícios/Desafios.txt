@@ -1,0 +1,14 @@
+#001
+Result: Feito
+
+#002
+Result: Feito
+
+#003 - Crie um programa que leia dois números e mostre a soma entre eles.
+Result: Feito
+
+#004 - Faça um programa que leia pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis.
+Result: 
+
+#005
+Result: 
