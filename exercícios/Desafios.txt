@@ -11,7 +11,7 @@ Result: Feito
 Result: Feito
 
 #005 - Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor
-Result: 
+Result: Feito
 
 #006 - Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
 Result: 
