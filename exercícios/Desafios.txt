@@ -43,11 +43,65 @@ Result:
 #015 - Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagarm sabendo que o carro custa R$60 por dia e R$0.15 por Km rodado.
 Result: 
 
-#016 - 
+#016 - Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção inteira
 Result: 
 
-#017 - 
+#017 - Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
 Result: 
 
-#018 - 
+#018 - Faça um programa que leia um ângulo qualquer e mostre na tela o valor e tangente desse ângulo
+Result: 
+
+#019 - Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele. Lendo o nome deles e escrevendo o nome do escolhido.
+Result: 
+
+#020 - O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+Result: 
+
+#021 - Faça um programa python que abra e reproduza o áudio de um arquivo MP3
+Result: 
+
+#022 - 
+Result: 
+
+#023 - 
+Result: 
+
+#024 - 
+Result: 
+
+#025 - 
+Result: 
+
+#026 - 
+Result: 
+
+#027 - 
+Result: 
+
+#028 - 
+Result: 
+
+#029 - 
+Result: 
+
+#030 - 
+Result: 
+
+#031 - 
+Result: 
+
+#032 - 
+Result: 
+
+#033 - 
+Result: 
+
+#034 - 
+Result: 
+
+#035 - 
+Result: 
+
+#036 - 
 Result: 
