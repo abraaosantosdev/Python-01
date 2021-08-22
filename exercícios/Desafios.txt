@@ -61,22 +61,22 @@ Result:
 #021 - Faça um programa python que abra e reproduza o áudio de um arquivo MP3
 Result: 
 
-#022 - 
+#022 - Crie um programa que leia o nome completo de uma pessoa e mostre: O nome com todas as letras maiúsculas; O nome com todas as minúsculas; Quantas letras ao todo, sem considerar espaços; Quantas letras tem o primeiro nome
 Result: 
 
-#023 - 
+#023 - Faça um programa que leia um número e mostre na tela cada um dos dígitos separados (unidade, dezenas, centenas, milhar)
 Result: 
 
-#024 - 
+#024 - Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "santo"
 Result: 
 
-#025 - 
+#025 - Crie um programa que leia o nome d euma pessoa e diga se ela tem "silva" no nome
 Result: 
 
-#026 - 
+#026 - Faça um programa que leia uma frase pelo teclado e mostre: Quantas vezes aparece a letra "a"; Em que posição ela aparece a última vez
 Result: 
 
-#027 - 
+#027 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
 Result: 
 
 #028 - 
